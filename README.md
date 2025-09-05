@@ -2,6 +2,12 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+This project was developed with the assistance of Claude Code, an AI coding assistant by Anthropic. Claude helped with:
+- Project structure and setup
+- Component development
+- Styling and UI design
+- Code optimization
+
 ## Available Scripts
 
 In the project directory, you can run:
